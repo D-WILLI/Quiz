@@ -1,0 +1,63 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+section{
+    text-align: center;
+    margin: 12%; 
+}
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+    margin: 2%; 
+}
+#startQuiz{
+    background-color: purple;
+    color: white;
+   text-decoration: underline;
+   border-radius: 10%;
+   font-size: 20px;
+ 
+}
+
+#userquestions button{
+    background-color: purple;
+    color: white;
+   border-radius: 10%;
+   font-size: 20px;
+   margin: .5%;
+   cursor: pointer;
+   visibility: hidden;
+}
+
+button:hover{
+    zoom: 130%;
+}
+
+
+#userquestions{
+margin: -22% 5%;
+}
+
+/* .selection{
+    visibility: hidden ;
+} */
+
+
+ 
+
+.FinalScore{
+    visibility: hidden;
+}
+
+#Highscores{
+    visibility: hidden;
+}
+
+#Highscores{
+    background: white;
+    margin: -20% 0%;
+}
