@@ -24,7 +24,8 @@
   >none
  
   ## Demo
-  ![giphy](https://media.giphy.com/media/8G3K8fqVkjY2NH490h/giphy.gif)
+ ![Screen Shot 2021-06-11 at 11 59 33 AM](https://user-images.githubusercontent.com/72957816/121715158-8e913a00-caac-11eb-9188-2baf7c49dd3d.png)
+
   
 
   
